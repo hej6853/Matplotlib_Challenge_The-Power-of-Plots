@@ -1,4 +1,4 @@
-# Matplotlib_Challenge---The-Power-of-Plots
+# Matplotlib_Challenge: The-Power-of-Plots
 ![image](https://user-images.githubusercontent.com/79428102/130821829-7da772cb-6332-4f3e-aabb-a0618039fd6d.png)
 
 #### What good is data without a good plot to tell the story? This is a Python-Matplotlib challenge conducted in USC Data Analytics Bootcamp. The challenge asks to apply the data visualization skills to a real-world situation and dataset.
